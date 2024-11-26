@@ -1,0 +1,5 @@
+requests
+python-decouple
+quixstreams
+psycopg2-binary
+python-dotenv
